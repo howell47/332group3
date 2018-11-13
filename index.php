@@ -24,7 +24,7 @@
 		   </div>
 
     		<div id="tagline">
-        	   <h3>WhereHouse</h3>
+        	   <h3>TestHouse</h3>
 		   </div>
          <div style="clear:both"></div>
     		
